@@ -9,8 +9,7 @@ KPI'S Requirement
 4. Average Call Duration in Minutes: To assess the efficiency of our agents, we need to calculate and display the average call duration in minutes. This metric can help identify trends in call handling.
 5. Response Time Percentage: Response time is a critical factor in customer satisfaction. This KPl should display the percentage of calls answered within a predefined time frame, helping us gauge our ability to provide prompt service.
 
-6. DASHBOARD 1: GRID
-
-7. 
+ DASHBOARD 1: GRID
+ 
 Create a Grid View dashboard displaying a table of all call details in Power BI
 This should allow a user to export the grid for various filters applied
