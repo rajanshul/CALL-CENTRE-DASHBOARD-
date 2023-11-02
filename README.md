@@ -10,5 +10,7 @@ KPI'S Requirement
 5. Response Time Percentage: Response time is a critical factor in customer satisfaction. This KPl should display the percentage of calls answered within a predefined time frame, helping us gauge our ability to provide prompt service.
 
 6. DASHBOARD 1: GRID
+
+7. 
 Create a Grid View dashboard displaying a table of all call details in Power BI
 This should allow a user to export the grid for various filters applied
